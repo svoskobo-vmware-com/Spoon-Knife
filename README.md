@@ -2,12 +2,6 @@
 
 This repository is meant to provide an example for _forking_ a repository on GitHub.
 
-|      |      |      |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-
 - item 1
 - item 2
   1. item 2.1
